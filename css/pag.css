@@ -1,0 +1,132 @@
+*{
+    text-decoration: none;
+    margin: 0;
+  } 
+    @media screen and
+  (max-width: 620px){
+body{
+    background-color: #faebd7;
+    margin-bottom: 50%;
+}
+.boxim{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+img{
+    
+    width: 80%;
+    border-radius: 20px;
+}
+.S{
+    margin-top: -5%;
+    background-color: #FF914A;
+    padding-bottom: 15%;
+    padding-top: 15%;
+    border-radius: 15%;
+}
+
+.textuser{
+    margin-left: -15%;
+    margin-top: -15%;
+    text-align: center;
+ 
+}
+.grupo-icones{
+    
+    margin-top:8%;
+    margin-bottom: 10%;
+
+}
+p{
+   margin-bottom: -20%;
+   text-align: center;
+}
+.icone{
+    padding-left: 5%;
+    border-radius: 10px;
+    text-align: left;
+    margin: 20px;
+    margin-top: 5%;
+    width: 85%;
+    height: 80px;
+    background-color: #FF5757;
+}
+svg{
+    margin-top: 20px;
+}
+.ic{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 8vw;
+    text-transform: uppercase;
+    color: #ffffff;
+    
+    font-weight: 700;
+    
+}
+.map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
+h2{
+    text-align:center;
+    font-size: 6vw;
+    color: #faebd7;
+    background-color: #FF914A;
+    padding: 1%;
+    text-transform: uppercase;
+    margin: 5%;
+    border-radius: 5px;
+
+}
+.Cmes{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prato{
+    width: 70%;
+    margin-bottom: 5%;
+    
+   
+}
+.tit-prato{
+    margin-left: -15%;
+    margin-top: -15%;
+    font-size: 5vw;
+    
+}
+.text-prato{
+    margin-left: -15%;
+    margin-right: 5%;
+}
+.Sec-prato{
+    display: flex;
+    justify-content:first baseline;
+    align-items: center;
+    margin-bottom: 20%;
+    margin: 2%;
+    margin-top: 10%;
+}
+.bt-prato{
+    width: 100%;
+    text-align: center;
+    font-size: 5vw;
+    background-color: #FF5757;
+    color: #faebd7;
+    text-decoration: none;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+
+}
+a{
+    color: #faebd7;
+}
+
+
+}

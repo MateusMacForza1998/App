@@ -1,0 +1,68 @@
+*{
+    text-decoration: none;
+    margin: 0;
+  } 
+    @media screen and
+  (max-width: 620px){
+body{
+    background-color: antiquewhite;
+
+}
+.card{
+    margin: 5%;
+    display: flex;
+    justify-content:first baseline;
+    align-items: center;
+}
+img{
+    width: 70%;
+    
+   
+}
+hr{
+    background-color: #FF5757;
+}   
+h1{
+    text-align: center;
+    color: #faebd7;
+    background-color: #FF914A;
+    padding: 1%;
+    text-transform: uppercase;
+    margin: 5%;
+    border-radius: 5px;
+
+}
+h2{
+    margin-left: -15%;
+    margin-bottom: -5%;
+    
+}
+p{
+    margin-top: 5%;
+    margin-left: -15%;
+    margin-right: 5%;
+}
+.pedido{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    background-color: #FF5757;
+    border-radius: 5px;
+    margin: 10%;
+}
+input{
+    width: 98%;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: #faebd7;
+    margin-top: 5%;
+}
+input::placeholder{
+    color: #747474;
+    font-weight: 600;
+    font-size: 3.5vw;
+}
+  }
+  
